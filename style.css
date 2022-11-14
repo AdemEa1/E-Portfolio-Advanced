@@ -653,7 +653,7 @@ footer {
   }
   .modal {
     top: 0;
-    left: 0;
+    left: 0
     transform: none;
     height: auto;
     width: 100%;
@@ -664,7 +664,6 @@ footer {
     width: 100%;
   }
 }
-
 
 /* Small Phones */
 
