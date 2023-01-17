@@ -590,6 +590,10 @@ footer {
   margin: 28px 0;
 }
 
+.footer__logo--img {
+  width: 180px;
+}
+
 .footer__social--link,
 .footer__copyright {
   color: white;
